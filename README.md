@@ -1,13 +1,13 @@
 # MiPrimerRepositorio
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <h1>Israel Pozo</h1>
-</body>
-</html>
+valor1 = 20 #Trabajo de Israel Pozo
+valor2 = 5
+
+resultadoSuma=valor1 + valor2
+resultadoResta=valor1 - valor2
+resultadoMulti=valor1 * valor2
+resultadoDivi=valor1 / valor2
+
+print(f"El resultado de {valor1} + {valor2} es {resultadoSuma}")
+print(f"El resultado de {valor1} - {valor2} es {resultadoResta}")
+print(f"El resultado de {valor1} + {valor2} es {resultadoMulti}")
+print(f"El resultado de {valor1} / {valor2} es {resultadoDivi}")
